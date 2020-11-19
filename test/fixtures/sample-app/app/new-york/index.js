@@ -1,7 +1,7 @@
 
 var app = require('../../../../../flatiron').app;
 
-app.log.info('somethign');
+console.log.info('somethign');
 
 app.get('/blah', function () {
   this.req;

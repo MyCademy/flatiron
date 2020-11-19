@@ -13,10 +13,10 @@
     "url": "http://github.com/flatiron/flatiron.git"
   },
   "dependencies": {
-    "broadway": "~0.3.2",
+    "broadway": "github:MyCademy/broadway#v0.3.7",
+    "director": "1.2.3",
     "optimist": "0.6.0",
-    "prompt": "0.2.14",
-    "director": "1.2.3"
+    "prompt": "github:MyCademy/prompt#v0.2.15"
   },
   "devDependencies": {
     "st": "0.1.x",
@@ -36,4 +36,3 @@
     "node": ">= 0.4.0"
   }
 }
-
